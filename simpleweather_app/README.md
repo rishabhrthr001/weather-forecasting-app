@@ -144,10 +144,6 @@ struct Sys: Codable {
 - Xcode 13+ with an iOS 13.0+ simulator
 - An OpenWeatherMap API key
 
-#### Installation steps
-1. Clone the repo: `git clone https://github.com/manste1n/simpleweather_app`
-2. Add a Constants.swift file in the root folder of your project (same folder with Info.plist, Assets.xcassets, etc)
-3. Add the OpenWeatherMap API key and URL
 
 
 
